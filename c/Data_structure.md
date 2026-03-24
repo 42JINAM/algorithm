@@ -4,11 +4,11 @@
 
 A structure that connects data elements sequentially.
 
-### Array
-### Linked list
-### Stack
-### Queue
-### Heap
+- Array
+- Linked list
+- Stack
+- Queue
+- Heap
 
 ## Non-Linear
 
