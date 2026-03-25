@@ -1,8 +1,12 @@
 # GOAL
 - Understand the concept of lists
+  - list is the linear data structure.
 - Understand the difference between lists and arrays
+  - Both are linear but arrays are on the contiguous memory, so we can directly access specific element, but the element of list are randomly allocated.
 - Understand the linked lists
+  - next elements are chained by pointer.
 - Understand the double linked lists
+  - nodes are chained by next and prev pointers.
 - Understand circle linked lists
 
 # List ADT
